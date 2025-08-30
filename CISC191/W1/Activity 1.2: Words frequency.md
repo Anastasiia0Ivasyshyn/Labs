@@ -1,4 +1,4 @@
-# Lab: Sorting
+# Lab: Words frequency
 
 ## 1. **Flowchart**
 ```mermaid

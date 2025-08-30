@@ -1,7 +1,31 @@
 # Lab: Sorting
 
 ## 1. **Flowchart**
-https://drive.google.com/file/d/1X44mfEk3BoxpimX3HB-0O5byFgcLzsFj/view?usp=sharing 
+```mermaid
+flowchart TD
+    %% === Main Program ===
+    A((Start)) --> B[Read first number as size]
+    B --> C[Create integer array of given size]
+    C --> D[Read remaining numbers into the array]
+    D --> E[Call sortArray with array and size]
+    E --> F[Print sorted array with commas]
+    F --> Z((End))
+
+    %% === sortArray FUNCTION (Bubble Sort, descending) ===
+    G((Start function)) --> H[Set i = 0]
+    H --> I{Is i less than arrSize minus 1?}
+    I -- No --> J[Return]
+    I -- Yes --> K[Set j = 0]
+    K --> L{Is j less than arrSize minus i minus 1?}
+    L -- No --> M[Increase i by 1]
+    M --> I
+    L -- Yes --> N{Is left element less than right element?}
+    N -- Yes --> O[Swap the two elements]
+    N -- No --> P[No swap]
+    O --> Q[Increase j by 1]
+    P --> Q
+    Q --> L
+```
 
 ## 2. **Explanation**
 I chose Bubble Sort because:

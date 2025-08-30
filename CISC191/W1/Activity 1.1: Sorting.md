@@ -7,20 +7,26 @@ https://drive.google.com/file/d/1X44mfEk3BoxpimX3HB-0O5byFgcLzsFj/view?usp=shari
 I chose Bubble Sort because:
 
 It's simple and easy to understand.
+
 Perfect for small arrays (less than 20 integers).
+
 Uses basic swapping and nested loops.
+
 Quick to implement without extra libraries.
 
 ## 3. **Challenges**
 Design Phase:
 
 Choosing which sorting algorithm to use
+
 Understanding descending vs ascending sorting
 
 Implementation Phase:
 
 Making sure the method uses in-place swapping
+
 Correctly printing output with commas
+
 Testing different inputs to match expected output
 
 ## 4. **Video**
@@ -28,7 +34,7 @@ Testing different inputs to match expected output
 
 ## 5. **Code**
 
-'''java
+```java
 import java.util.Scanner;
 
 public class LabSorting {
@@ -73,5 +79,3 @@ public class LabSorting {
         sc.close();
     }
 }
-
-'''

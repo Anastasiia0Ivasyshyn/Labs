@@ -1,4 +1,4 @@
-# Lab: Input and output
+# Lab: Derived classes
 
 ## 1. Flowchart
 ```mermaid

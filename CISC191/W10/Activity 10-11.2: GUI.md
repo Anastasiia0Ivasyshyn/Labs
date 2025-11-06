@@ -52,7 +52,7 @@ public class DistanceConverterGUI extends JFrame {
     private final JLabel ftLabel;
 
     public DistanceConverterGUI() {
-        super("Distance Converter (Miles → km, m, ft)");
+        super("Distance Converter (Miles -> km, m, ft)");
 
         // Formatter for miles input (non-negative decimal)
         NumberFormat nf = NumberFormat.getNumberInstance();

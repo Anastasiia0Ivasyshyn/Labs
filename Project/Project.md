@@ -18,7 +18,7 @@ This reads:
 - [Auto MPG data]
 
 and inserts rows into:
-- [Auto.AutoData]
+- Auto.AutoData
 
 ## Task 3 + Task 4: GUI Query + Sliders
 Run:

@@ -8,7 +8,7 @@ public class AutoGuiSearch extends JFrame {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/Auto?useSSL=false&serverTimezone=UTC";
     private static final String DB_USER = "root";
-    private static final String DB_PASS = "root123";
+    private static final String DB_PASS = ""; //include password here as well
 
     private final JTextField inputField;
     private final JSlider mpgSlider;

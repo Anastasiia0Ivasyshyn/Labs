@@ -5,10 +5,9 @@ import java.sql.*;
 
 public class AutoDbLoader {
 
-    // CHANGE THESE to match your MySQL setup
     private static final String DB_URL = "jdbc:mysql://localhost:3306/Auto?useSSL=false&serverTimezone=UTC";
     private static final String DB_USER = "root";
-    private static final String DB_PASS = ""; // put your password if you have one
+    private static final String DB_PASS = "root123"; 
 
     // Dataset location inside the repo
     private static final String DATA_FILE = "data/auto-mpg.data-original";

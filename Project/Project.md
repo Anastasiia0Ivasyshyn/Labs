@@ -12,7 +12,7 @@ Run the SQL file:
 
 ## Task 2: Insert Data Using Java
 Run:
-- [AutoDbLoader]
+- [AutoDbLoader](https://github.com/Anastasiia0Ivasyshyn/Labs/blob/main/Project/src/AutoDbLoader.java)
 
 This reads:
 - [Auto MPG data]

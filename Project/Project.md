@@ -15,7 +15,7 @@ Run:
 - [AutoDbLoader](https://github.com/Anastasiia0Ivasyshyn/Labs/blob/main/Project/src/AutoDbLoader.java)
 
 This reads:
-- [Auto MPG data]
+- [Auto MPG data](https://github.com/Anastasiia0Ivasyshyn/Labs/blob/main/Project/data/auto-mpg.data-original)
 
 and inserts rows into:
 - Auto.AutoData

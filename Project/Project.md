@@ -22,7 +22,7 @@ and inserts rows into:
 
 ## Task 3 + Task 4: GUI Query + Sliders
 Run:
-- [AutoGuiSearch]
+- [AutoGuiSearch](https://github.com/Anastasiia0Ivasyshyn/Labs/blob/main/Project/src/AutoGuiSearch.java)
 
 Main window:
 - Text input field (type ALL to show all rows)
@@ -31,7 +31,7 @@ Main window:
 Second window:
 - Displays query results from MySQL
 
-## How to Run (quick)
+## How to Run
 1) Start MySQL
 2) Run Auto Database
 3) Put Auto MPG data into the data folder

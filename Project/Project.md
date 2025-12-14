@@ -8,7 +8,7 @@
 
 ## Task 1: Create Database in MySQL
 Run the SQL file:
-- [Auto Database]
+- [Auto Database](https://github.com/Anastasiia0Ivasyshyn/Labs/blob/main/Project/sql/auto_database.sql)
 
 ## Task 2: Insert Data Using Java
 Run:

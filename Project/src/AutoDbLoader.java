@@ -7,7 +7,7 @@ public class AutoDbLoader {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/Auto?useSSL=false&serverTimezone=UTC";
     private static final String DB_USER = "root";
-    private static final String DB_PASS = "root123"; 
+    private static final String DB_PASS = ""; //include password here 
 
     // Dataset location inside the repo
     private static final String DATA_FILE = "data/auto-mpg.data-original";
